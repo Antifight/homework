@@ -7,7 +7,7 @@ elif user_number % 3 == 0:
 elif user_number % 5 == 0:
     print("bar")
 else:
-    print("number cannot be divisible by 3 and 5")
+    print("number cannot be divided by 3 and 5")
 
 #2
 num1 = int(input("Enter a number: "))
